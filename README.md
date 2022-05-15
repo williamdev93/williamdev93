@@ -1,7 +1,7 @@
 ### Olá, eu sou o William Alves🧑‍💻
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando .NET
+- 🌱 Estudando/Especializando em .NET
 
 <div align="center">
   <a href="https://github.com/williamdev93">
