@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando .NET
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/williamdev93">
