@@ -1,14 +1,7 @@
 ### Olá, eu sou o William Alves🧑‍💻
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando/Especializando em .NET
-
-<div align="center">
-  <a href="https://github.com/williamdev93">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=williamdev93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdev93&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+- 🌱 Estudando/Especializando em .NET  
   <div style="display: inline_block"><br>
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
