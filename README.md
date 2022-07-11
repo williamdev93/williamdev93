@@ -1,6 +1,6 @@
 ### Olá, eu sou o William Alves🧑‍💻
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho como Full Stack
 - 🌱 Estudando/Especializando em .NET  
   <div style="display: inline_block"><br>
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
